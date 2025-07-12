@@ -26,11 +26,8 @@ Do **not** attempt to run, reverse-engineer, or reuse any component.
 
 ## 🔐 License
 
-```text
 This software is provided as-is for demo viewing only.
 You may not use, copy, modify, distribute, or reverse-engineer any part of the binary without explicit written permission from the author.
-
-````
 
 ---
 
